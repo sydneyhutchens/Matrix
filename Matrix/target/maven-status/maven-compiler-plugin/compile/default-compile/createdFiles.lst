@@ -1,0 +1,14 @@
+gui\MatrixControl.class
+gui\MatrixOperation$LabeledNode.class
+matrix\Matrix.class
+matrix\AbstractMatrix.class
+matrix\ArrayImplementation.class
+matrix\ArrayListImplementation.class
+gui\MatrixControl$LabeledSpinner.class
+module-info.class
+matrix\MatrixException.class
+gui\MatrixDisplay$Element.class
+gui\MatrixOperation.class
+matrix\SystemInfo.class
+gui\MatrixDisplay.class
+gui\MatrixDisplay$Header.class

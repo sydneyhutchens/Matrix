@@ -1,0 +1,4 @@
+gui\MatrixDisplayTest.class
+gui\MatrixOperationTest.class
+matrix\MatrixTest.class
+gui\MatrixControlTest.class
